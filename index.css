@@ -1,0 +1,31 @@
+body{
+    min-width: 400px;
+}
+input{
+    width: 100%;
+    box-sizing: border-box;
+    padding-left: 10px;
+    padding-right: 20px;
+}
+button{
+    margin: 5px;
+    background-color: rgb(107, 182, 107);
+    color: white;
+    font-weight: bold;
+    border-radius: 3px;
+    border-color: rgb(227, 226, 226);
+}
+
+button:hover{
+    background-color: whitesmoke;
+    color: black;
+}
+#delete-btn{
+background-color: rgb(240, 240, 240);
+color: rgb(59, 161, 59);
+}
+
+#delete-btn:hover{
+    background-color: rgb(125, 210, 125);
+    color: white;
+}
